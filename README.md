@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AWS Cloud Computing
 - 💞️ I’m looking to collaborate on try to build and deploy small projects on AWS to get hands-on experience 
 - 📫 How to reach me on sampsonrichiedoh@gmail.com
-- 😄 Pronouns: Mr
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
